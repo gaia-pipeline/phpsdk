@@ -1,0 +1,12 @@
+{
+    "name": "gaia/phpsdk",
+    "description": "PHP SDK for Gaia Pipelines",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Gergely Brautigam",
+            "email": "skarlso777@gmail.com"
+        }
+    ],
+    "require": {}
+}
