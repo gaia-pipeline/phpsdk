@@ -8,5 +8,13 @@
             "email": "skarlso777@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "grpc/grpc": "^1.27",
+        "google/protobuf": "^3.11"
+    },
+    "autoload": {
+        "psr-4": {
+          "": "Proto/"
+        }
+    }
 }
